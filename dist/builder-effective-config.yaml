@@ -1,0 +1,6 @@
+directories:
+  output: dist
+  buildResources: build
+appId: com.fabian.quickstart
+win: {}
+electronVersion: 8.0.1

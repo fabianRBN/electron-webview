@@ -1,0 +1,4 @@
+owner: cba85
+repo: electron-webview
+provider: github
+updaterCacheDirName: electron-webview-updater

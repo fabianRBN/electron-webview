@@ -1,0 +1,8 @@
+version: 1.0.4
+files:
+  - url: Electron-webview-Setup-1.0.4.exe
+    sha512: exjm2sqGnqfbPa+iJKLrtyw2YJylwuzEzIztVnOQKFruU3O1C1gwQW09Fk7Vo9hBRW9zsiVLEHkz5jmRLB5PIw==
+    size: 50469716
+path: Electron-webview-Setup-1.0.4.exe
+sha512: exjm2sqGnqfbPa+iJKLrtyw2YJylwuzEzIztVnOQKFruU3O1C1gwQW09Fk7Vo9hBRW9zsiVLEHkz5jmRLB5PIw==
+releaseDate: '2020-02-21T14:12:45.567Z'
